@@ -52,7 +52,7 @@ export default function Translate() {
     return (
         <div>
             <div className="app-header">
-                <h2 className="header">Sanjeet's Translator</h2>
+                <h2 className="header">Aklilu's Translator</h2>
             </div>
 
             <div className='app-body'>
