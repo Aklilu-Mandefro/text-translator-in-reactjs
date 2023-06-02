@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono&display=swap');
+
+.app-header{
+  text-align: center;
+  padding: 20px;
+}
+
+.header{
+  font-family: 'Azeret Mono', monospace;
+  font-size: 30px;
+}
+
+.app-body{
+  padding: 20px;
+  text-align: center;
+}
+
+.language-select{
+  height: 40px !important;
+  margin-bottom: 15px;
+  outline: none !important;
+}
