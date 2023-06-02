@@ -70,7 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
 ## Preview of The Translator
-<img src="https://i.imgur.com/QofzweP.png"/>
+<img src="https://i.imgur.com/zIyFJ0z.png"/>
 
 ## ✍️ Please give this repo a ⭐ if you found it helpful.
 
